@@ -1,5 +1,5 @@
 # Atliq-consumer-goods
-# My Sql codes
+# My Sql code for all Ad Hoc requests
 
 
 ## For 1st Business Question 
